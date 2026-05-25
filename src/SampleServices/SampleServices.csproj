@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <PackageId>Vivek4Int.SampleServices</PackageId>
+    <Authors>Vivek4Int</Authors>
+    <Description>Sample services library — GitHub Packages POC</Description>
+    <RepositoryUrl>https://github.com/Vivek4Int/sample-services-lib</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+</Project>
